@@ -1,5 +1,11 @@
 # 素早くRails6 x MySQL x docker-compose環境構築
-clone後、好きなプロジェクト名に変更する
+
+## プロジェクト名変更
+clone後に好きなプロジェクト名に変更してください
+
+```bash
+$ mv quick_build_rails6_mysql_envronment your_project_name
+```
 
 ## Railsプロジェクト作成
 
